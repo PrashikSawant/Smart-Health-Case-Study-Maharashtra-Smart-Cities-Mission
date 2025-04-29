@@ -21,10 +21,8 @@ To identify systemic inefficiencies in the supply, distribution, and usage of es
 - Developed a professional case study document and research report supported with data visualizations
 
 ## Tools & Technologies Used
-- **Excel** for data cleaning and visualization
-- **Python (pandas, matplotlib, scikit-learn)** for analysis and model prototyping
-- **Power BI / Tableau** for visual insights (optional)
-- **Canva / MS PowerPoint** for case study design and report formatting
+- **Excel** for data cleaning, data analysis and visualization
+- **MS Word/MS PowerPoint** for case study design and report formatting
 
 ## Files Included
 - `Case Study on State and Sector Chosen.pdf`: Final case study output
@@ -52,4 +50,6 @@ Thanks to **MentorMind** and **CIE at IIIT Hyderabad** for organizing this mente
 Feel free to fork or cite this repository for academic, research, or policy development work. Contributions and feedback are welcome!
 
 **Author:** Prashik Sawant
+- **LinkedIn** [🔗](https://www.linkedin.com/in/prashik-sawant-ds/)
+- **Email:** prashiksawant47@gmail.com
 
